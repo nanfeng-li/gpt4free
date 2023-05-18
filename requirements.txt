@@ -8,10 +8,11 @@ curl_cffi
 streamlit==1.21.0
 selenium
 fake-useragent
+
 pydantic
 pymailtm
 Levenshtein
 retrying
 mailgw_temporary_email
 pycryptodome
-ffmpeg
+
