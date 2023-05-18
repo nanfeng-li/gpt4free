@@ -17,4 +17,4 @@ retrying
 mailgw_temporary_email
 pycryptodome
 ffmpeg
-git+https://github.com/FFmpeg/FFmpeg.git
+git+https://github.com/FFmpeg/FFmpeg
