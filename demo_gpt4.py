@@ -12,6 +12,6 @@ for response in forefront.StreamingCompletion.create(
     prompt='hello world',
     model='gpt-4'
 ):
-    print('--------')
+    print('----------')
     print(response.choices[0].text, end='')
 print("end")
