@@ -1,3 +1,4 @@
+urllib3==1.25.11
 websocket-client
 requests
 tls-client
@@ -16,3 +17,4 @@ Levenshtein
 retrying
 mailgw_temporary_email
 pycryptodome
+
