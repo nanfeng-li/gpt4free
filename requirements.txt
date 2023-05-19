@@ -1,4 +1,4 @@
-urllib3==1.25.11
+urllib3==1.25.2
 websocket-client
 requests
 tls-client
